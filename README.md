@@ -19,7 +19,9 @@ Spotify
 
 По состоянию на второй квартал 2022 года у Spotify было 188 миллионов платных подписчиков по всему миру по сравнению со 165 миллионами в соответствующем квартале 2021 года.[3]
 
-В целом Spotify наиболее популярен среди молодежи. Более половины пользователей Spotify моложе 35 лет[4]:
+Ежедневно 44% пользователей слушают Spotify[4]
+
+В целом Spotify наиболее популярен среди молодежи. Более половины пользователей Spotify моложе 35 лет[5]:
 
 ![graps](./images/Spotify-user-demographics.png)
 
@@ -27,7 +29,7 @@ Spotify
 - Spotify также популярен среди пожилых людей: 19% пользователей старше 55 лет.
 - Что касается пола, 56% пользователей Spotify — мужчины, а 44% — женщины.
 
-Ежегодное количество пользователей Spotify по регионам с 2016 по 2021 год[5]:
+Ежегодное количество пользователей Spotify по регионам с 2016 по 2021 год[6]:
 
  Год  | Европа  | Северная Америка  | Латинская Америка  | Остальной мир  |
 ------| --------| ------------------| -------------------| ---------------|
@@ -42,5 +44,6 @@ Spotify
     1. https://www.statista.com/statistics/367739/spotify-global-mau/
     2. https://www.statista.com/statistics/813787/spotify-ad-supported-monthly-active-users/
     3. https://www.statista.com/statistics/244995/number-of-paying-spotify-subscribers/
-    4. https://siteefy.com/spotify-statistics/
-    5. https://www.businessofapps.com/data/spotify-statistics/
+    4. https://www.businessofapps.com/data/spotify-statistics/
+    5. https://siteefy.com/spotify-statistics/
+    6. https://www.businessofapps.com/data/spotify-statistics/
